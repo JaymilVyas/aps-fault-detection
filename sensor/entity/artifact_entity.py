@@ -1,13 +1,7 @@
 
-class DataIngestionArtifact:
-    pass
-class DataValidationArtifact:
-    pass
-class DataTransformationArtifact:
-    pass
-class ModelTrainerArtifact:
-    pass
-class ModelEvaluationArtifact:
-    pass
-class ModelPusherArtifact:
-    pass
+class DataIngestionArtifact:...
+class DataValidationArtifact:...
+class DataTransformationArtifact:...
+class ModelTrainerArtifact:...
+class ModelEvaluationArtifact:...
+class ModelPusherArtifact:...
